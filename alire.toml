@@ -1,0 +1,11 @@
+name = "mycrate"
+description = "My first crate"
+version = "0.1.0-dev"
+
+authors = ["Michel Mimmo"]
+maintainers = ["Michel Mimmo <mmichel1780@hotmail.be>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["mycrate"]
