@@ -54,7 +54,7 @@ begin
 	   p_string_out(J) := p_string_in(I);
 	   J := J + 1;   
 	  end if;
-	  put_line("Debug Index: "&I'Img);
+	  Put_line("Debug Index: "&I'Img);
   else
 	  IIgnore := IIgnore - 1;
   end if; 
